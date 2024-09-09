@@ -1,4 +1,4 @@
-#
+# README
 - 👋 Hi, I’m @Zuensai
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Python
@@ -6,6 +6,10 @@
 - 📫 Reach my via e-mail only.
 - ⚡ Fun fact: i love fun facts!
 
+
+## By the way
+
+Be sure to check out [Bubbles][bubbles], a library of common UI components for Bubble Tea.
 <!---
 Zuensai/Zuensai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
