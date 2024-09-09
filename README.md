@@ -5,7 +5,9 @@
 - 💞️ I’m looking to collaborate on data sciences / software development
 - 📫 Reach my via e-mail only.
 - ⚡ Fun fact: i love fun facts!
+### Submit a pull request
 
+If you'd like to contribute, please fork the repository and open a pull request to the `main` branch.
 
 ## By the way
 
